@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Functional Programming (CS141)                                             --
--- Lab 5: Lazy evaluation                                                     --
+-- Lab: Lazy evaluation                                                       --
 --------------------------------------------------------------------------------
 
 {-# LANGUAGE ScopedTypeVariables #-}
@@ -9,7 +9,7 @@ import Test.Hspec
 import Test.Hspec.QuickCheck
 import Test.QuickCheck
 
-import qualified Lab5 as L
+import qualified Lab as L
 
 --------------------------------------------------------------------------------
 
